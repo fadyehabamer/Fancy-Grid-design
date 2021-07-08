@@ -1,3 +1,2 @@
 # Fancy Grid Design
-### using Css Grid
-### Responsive with no Media Query
+> using Css Grid Responsive with no Media Query
