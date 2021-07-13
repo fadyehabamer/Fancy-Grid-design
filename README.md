@@ -1,2 +1,2 @@
 # Fancy Grid Design
-> using Css Grid Responsive with no Media Query
+> using CSS Grid Responsive with no Media Query
